@@ -6,6 +6,6 @@ Este é o repositório oficial utilizado para as dicas do Kubedrops, o objetivo 
 
 Acesso nosso canal para todos os episódios em [gtup.me/youtube](http://gtup.me/youtube "gtup.me/youtube")
 
-Caso queira das sugestões de temas, pode fazer um PR em [`sugestões`](https://github.com/getupcloud/kubedrops/blob/main/sugestoes.md "`sugestões`").
+Caso queira das sugestões de temas, pode fazer um PR em [`sugestões`](sugestoes.md).
 
 Feedbacks são muito bem vindos em kubedrops@getup.io ou [twitter.com/getupcloud](https://twitter.com/getupcloud "twitter.com/getupcloud").
